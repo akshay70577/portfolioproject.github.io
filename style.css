@@ -882,8 +882,8 @@ footer span a:hover {
 
 /* for oppo devices */
 @media only screen 
-    and (min-device-width:360px)
-    and (max-device-width:678px)
+    and (min-device-width:320px)
+    and (max-device-width:478px)
     and (-webkit-min-device-pixel-ratio: 2){
         /* Social media  */
   .wrapper .button {
@@ -899,4 +899,5 @@ footer span a:hover {
     transition: all 0.3s ease-out;
   }
     }
+
 
