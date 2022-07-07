@@ -852,13 +852,11 @@ footer span a:hover {
     line-height: 38px;
   }
 
-  /* Social media  */
   .wrapper .button {
     display: inline-block;
     height: 60px;
     width: 60px;
-    /* margin-left: 25px; */
-    margin: 20px;
+    margin: 18px;
     overflow: hidden;
     background: #fff;
     border-radius: 50px;
