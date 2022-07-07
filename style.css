@@ -877,3 +877,26 @@ footer span a:hover {
     transition: all 0.3s ease-out;
   }
 }
+
+
+
+/* for oppo devices */
+@media only screen 
+    and (min-device-width:360px)
+    and (max-device-width:678px)
+    and (-webkit-min-device-pixel-ratio: 2){
+        /* Social media  */
+  .wrapper .button {
+    display: inline-block;
+    height: 60px;
+    width: 60px;
+    margin: 16px;
+    overflow: hidden;
+    background: #fff;
+    border-radius: 50px;
+    cursor: pointer;
+    box-shadow: 0px 10px 10px rgba(0, 0, 0, 0.1);
+    transition: all 0.3s ease-out;
+  }
+    }
+
